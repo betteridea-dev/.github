@@ -18,7 +18,13 @@ This is a big step forward for the Arweave Ecosystem and web3 in general as it w
   
 # Checkout launch video 📼
 
-[![launch-video](https://github.com/betteridea-dev/.github/assets/50258860/e291f423-f2bb-418c-9b54-66803bd07511)](https://www.youtube.com/watch?v=9snJSH9CdUs)
+<!--[![launch-video](https://github.com/betteridea-dev/.github/assets/50258860/e291f423-f2bb-418c-9b54-66803bd07511)](https://www.youtube.com/watch?v=9snJSH9CdUs)-->
+
+<a href="https://www.youtube.com/watch?v=9snJSH9CdUs" target="_blank">
+
+![launch-video](https://github.com/betteridea-dev/.github/assets/50258860/e291f423-f2bb-418c-9b54-66803bd07511)
+
+</a>
 
 
 # Repositories
