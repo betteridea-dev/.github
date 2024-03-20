@@ -15,13 +15,10 @@ Docs: [docs.betteridea.dev](https://docs.betteridea.dev)
 Recently, Arweave announced the release of a hyper threaded computer called [AO](https://ao.arweave.dev).
 
 This is a big step forward for the Arweave Ecosystem and web3 in general as it will enable developers to build hyper scalable smart contracts and DAPPs that was not feasible before.
+  
+# Checkout launch video 📼
 
-<details>
-<summary>Checkout launch video 📼</summary>
-
-<iframe width="560" height="315" src="https://www.youtube.com/embed/9snJSH9CdUs?si=cojKLifQYwxiloyx" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
-
-</details>
+[![launch-video](https://github.com/betteridea-dev/.github/assets/50258860/e291f423-f2bb-418c-9b54-66803bd07511)](https://www.youtube.com/watch?v=9snJSH9CdUs)
 
 
 # Repositories
