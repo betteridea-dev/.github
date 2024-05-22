@@ -26,9 +26,3 @@ This is a big step forward for the Arweave Ecosystem and web3 in general as it w
 
 </a>
 
-
-# Repositories
-
-| IDE Source Code | Documentation |
-|---|---|
-| [![IDE](https://github-readme-stats.vercel.app/api/pin/?username=betteridea-dev&repo=ide)](https://github.com/betteridea-dev/ide) | [![DOCS](https://github-readme-stats.vercel.app/api/pin/?username=betteridea-dev&repo=docs)](https://github.com/betteridea-dev/docs) |
